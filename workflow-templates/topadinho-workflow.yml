@@ -1,7 +1,9 @@
 name: Octo Organization CI
 
 on:
-  workflow_call:
+  push:
+    branches:
+      -main
 
 jobs:
   build:
