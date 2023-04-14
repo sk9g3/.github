@@ -1,0 +1,6 @@
+{
+    "name": "Topadinho Workflow",
+    "description": "Topadinho CI workflow template.",
+    "iconName": "icon-wechoo",
+    "categories": ["C#"]
+  }
